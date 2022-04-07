@@ -7,7 +7,7 @@ This is a basic machine learning model project that detects text from given imag
 - <b>Datasets: </b>[EMNIST Balanced Datasets](https://www.kaggle.com/datasets/crawford/emnist)   
 - <b>ML Model Algorithm: </b>Convolutional Neural Network (CNN)     
 - <b>Model Designed as below</b>
-<p style="text-align: center;">
+<div align="center">
 <table class="tg">
 <thead>
   <tr>
@@ -68,7 +68,7 @@ This is a basic machine learning model project that detects text from given imag
   </tr>
 </tbody>
 </table>       
-</p>
+</div>
         
         
 ## Model Training 
