@@ -1,7 +1,7 @@
-## Text Recognition Machine Learning Model
+# Text Recognition Machine Learning Model
 This is a basic machine learning model project that detects text from given images, which was part of my final year project in [CityU](http://dspace.cityu.edu.hk/handle/2031/9511).
 
-### Development Environment
+## Development Environment
 - <b>Machine Learning Platform: </b>TensorFlow + Keras API   
 - <b>Development Language: </b> Python   
 - <b>Datasets: </b>[EMNIST Balanced Datasets](https://www.kaggle.com/datasets/crawford/emnist)   
@@ -69,7 +69,7 @@ This is a basic machine learning model project that detects text from given imag
 </table>       
         
         
-### Model Training 
+## Model Training 
 Model training stops when val_accuracy does not improve in three epoches.   
 - Model Training with Training Datasets    
 ![image](https://user-images.githubusercontent.com/12388329/162203470-61e762db-3df4-4e97-8ccf-011c2a40e2a6.png)    
@@ -78,7 +78,7 @@ Model training stops when val_accuracy does not improve in three epoches.
 - <b>Accuracy: 85.30%</b>     
      
      
-### Model Prediction   
+## Model Prediction   
 - Detecting Text Area (OpenCV)    
 ![image](https://user-images.githubusercontent.com/12388329/162204916-65df22ce-5e70-4af1-a684-e6baaf33bd66.png)    
 - Prediction with Saved Model    
