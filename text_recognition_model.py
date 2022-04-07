@@ -120,14 +120,3 @@ with open("model.json", "w") as json_file:
     
 model.save_weights("model.h5")
 
-#%%
-
-# Saves the model into .tflite file
-converter = tf.lite.TFLiteConverter.from_keras_model(model)
-model = converter.convert()
-
-file = open('model.tflite' , 'wb' ) 
-file.write(model)
-
-
-
