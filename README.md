@@ -81,7 +81,7 @@ Model training stops when val_accuracy does not improve in three epoches.
 ## Model Prediction   
 - Detecting Text Area (OpenCV)    
 ![image](https://user-images.githubusercontent.com/12388329/162204916-65df22ce-5e70-4af1-a684-e6baaf33bd66.png)    
-- Prediction with Saved Model    
+- Prediction with Saved Model (Model.json / Model.h5)  
 ![image](https://user-images.githubusercontent.com/12388329/162205070-0411e6a6-2758-4166-86ff-62caef3aa1da.png)
 
 
